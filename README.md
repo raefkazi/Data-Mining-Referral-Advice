@@ -25,12 +25,12 @@ You can find the complete machine learning pipeline build for this project in th
   - Random forest feature importance & experimentation with XGBoost & Decision Tree classification
 - ML Model building, evaluation and comparisom on 5-class, 4-class and binary classification (respectively with and without oversampling) using 5 ML models
   - Random forest
-  - Suport vektor machine
+  - Support vekcor machine
   - XGBoost
   - Decision Tree
   - Logistic regression
-  & 10-fold cross validation
-  
+  We also evaluate our ML models using 10-fold cross validation
+ 
   To review this notebook, you can simply open the file inside your browser.
 
 
