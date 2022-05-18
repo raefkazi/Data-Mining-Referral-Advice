@@ -13,23 +13,23 @@ The dataset consists of 1546 cases of lower back pain provided by the Groningen 
 The code is written in python and can be accessed from the Jupyter notebook. You can also open the notebook directly using Colab. 
 You can find the complete machine learning pipeline build for this project in this notebook, structured into the following section;
 - Data Preprocessing:
-  - data investigation
-  - handling missing values using combination of deletion and imputation approach)
-  - Experimen results for deletion only approach
-  - SMOTE utlization
+  - Data investigation
+  - Handling missing values using a combination of deletion and imputation methods
+  - Experiment with results for deletion-only approach
+  - SMOTE utilization
   - standard data prepation steps such as scaling and encoding
 - Feature analysis
-  - PCA & experimentation with Random forest classification
-  - RFE & experimentation wih Random forest, XGBoost classification
-  - Univariate feature filters & experimentation with Random forest classification
-  - Random forest feature importance & experimentation with XGBoost & Decision Tree classification
-- ML Model building, evaluation and comparisom on 5-class, 4-class and binary classification (respectively with and without oversampling) using 5 ML models
+  - PCA & experimentation with Random Forest classification
+  - RFE & experimentation wih Random Forest, XGBoost classification
+  - Univariate feature filters & experimentation with Random Forest classification
+  - Random Forest feature importance & experimentation with XGBoost & Decision Tree classification
+- ML Model building, evaluation and comparisom on 5-class, 4-class and binary classification (each with and without oversampling) using 5 ML models
   - Random forest
   - Support vekcor machine
   - XGBoost
   - Decision Tree
   - Logistic regression
-  We also evaluate our ML models using 10-fold cross validation
+  We also evaluate our models using 10-fold cross validation
  
   To review this notebook, you can simply open the file inside your browser.
 
