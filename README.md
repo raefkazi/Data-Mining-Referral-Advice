@@ -1,5 +1,5 @@
 # Referral-Advice
-A data mining approach to predicting referral advice for patients suffering from lower back pain
+A data mining approach to predicting referral advice for patients suffering from lower back pain.
 In this project, we have investigated the automation of referral advice for patients with lower back pain based on patient input to a questionnaire. As part of this project, we aimed to reduce the set of questions used to effectively determine the referral advice. We develop, evaluate and interpret five different machine learning models, with our random forest classifier predicting referral advice with an accuracy of over 70 percent. During our research, we use advanced techniques for data pre-processing as well as feature analysis and dimensionality reduction techniques to overcome problems prevalent in healthcare data. The final selection of features reduced the questionnaire from 36 to 7 features.
 
 ## The Data set
